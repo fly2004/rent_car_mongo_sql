@@ -1,0 +1,31 @@
+[
+  {
+    "id": "4a0c8c32-f38c-462f-8841-15822f8d1d94",
+    "model": "Corolla",
+    "brand": "Toyota",
+    "year": 2020,
+    "dailyPrice": 45,
+    "available": false,
+    "rentalIds": [
+      "697acf62-d309-46f7-b64a-6394e286b2cc"
+    ]
+  },
+  {
+    "id": "20daeb97-7eca-4ce1-8561-b4b45a3fd3e8",
+    "model": "Corolla",
+    "brand": "Toyota",
+    "year": 2020,
+    "dailyPrice": 45,
+    "available": true,
+    "rentalIds": []
+  },
+  {
+    "id": "1ea526ea-3764-46c8-93dd-866cd17dbdac",
+    "model": "Corolla",
+    "brand": "Toyota",
+    "year": 2020,
+    "dailyPrice": 45,
+    "available": false,
+    "rentalIds": []
+  }
+]

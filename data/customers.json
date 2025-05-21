@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1f8b4b2d-acc0-4f87-966d-67e8095cbf89",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "phone": "1234567890",
+    "rentalIds": [
+      "697acf62-d309-46f7-b64a-6394e286b2cc"
+    ]
+  },
+  {
+    "id": "051eb4b2-aed1-4900-8550-41302fe4b75c",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "phone": "1234567890",
+    "rentalIds": []
+  }
+]

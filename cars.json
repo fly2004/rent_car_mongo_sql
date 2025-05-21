@@ -1,0 +1,10 @@
+[
+  {
+    "id": "a8110a0b-939f-4809-83a0-183a3f03b025",
+    "model": "Corolla",
+    "brand": "Toyota",
+    "year": 2020,
+    "dailyPrice": 45,
+    "available": false
+  }
+]
